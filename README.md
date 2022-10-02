@@ -32,7 +32,7 @@ Below is the screenshots of the challenge, the desktop view is 1440px and the mo
 ### Links
 
 - Solution URL: [Odo_Peter](https://github.com/Odo-Peter/frontend-mentor-four-card-feature)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Odo_peter.vercel.app](https://frontend-mentor-four-card-feature-lake.vercel.app/)
 
 ## My process
 
